@@ -44,3 +44,4 @@ apparaît, c'est qu'il faut changer le nom de la fonction print (ou readline sel
 
 Les codes générés ont été testés sur [la plateforme Isograd](https://www.isograd.com/FR/solutionconcours.php) et correspondent aux solutions des exercices de la BattleDev de novembre 2020.
 
+Attention, si vous voulez tester le code en local, après avoir écrit les données dans l'entrée standart il faut finir avec une fin de fichier (Ctrl + D).
